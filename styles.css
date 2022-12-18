@@ -1,11 +1,6 @@
-#btn{
-    background-color: black;
-    color: aliceblue;
-    border-radius: 5px;
-
-}
-#btn:hover{
-    background-color: yellow;
+button#btn:hover {
+    background-color : yellow;
     color: black;
+    border:none;
     border-radius: 30px;
-}
+  }
